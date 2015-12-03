@@ -2,7 +2,7 @@ var Uscore = 0;
 
 var highscore = 9001;
 
-var audio = new Audio('mario.wav');
+var audio = new Audio('');
 
 var press = function() {
 	Uscore=Uscore+9999;
